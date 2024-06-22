@@ -1,0 +1,19 @@
+git init 
+
+git remote add origin URL
+
+git remote -v 
+
+git pull origin main
+
+git status 
+
+git check out -b example
+
+git add .
+
+git status 
+
+git commit -m "Add new file"
+
+git push -u origin example
